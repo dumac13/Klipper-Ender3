@@ -1,5 +1,4 @@
 Base configuration: sample file printer-creality-ender3pro-2020.cfg from the klipper3D github
-
 https://github.com/Klipper3d/klipper/tree/master/config
 
 Following settings must be configured for each printer
@@ -10,7 +9,6 @@ Pressure Advance
 PID calibrate (command)
 
 Resonance Compesation - Input Shaper
-
 
 -	Manual settings (commented)
 
